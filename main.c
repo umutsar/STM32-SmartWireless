@@ -163,8 +163,6 @@ int main(void)
 		}
 		__enable_irq();
 	}
-	
-	void control 
 
 
 	sendData[1] = sendData[1];
